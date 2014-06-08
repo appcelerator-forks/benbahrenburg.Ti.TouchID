@@ -1,4 +1,4 @@
-<h1>Ti.TouchCode</h1>
+<h1>Ti.TouchID</h1>
 
 Experiments with Touch ID for Titanium iOS
 
