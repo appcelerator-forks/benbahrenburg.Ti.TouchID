@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: TouchCode
+moduleid: ti.touchcode
+guid: 96068747-3c7b-45bd-8289-26e7998d9879
+platform: iphone
+minsdk: 3.2.3.GA
